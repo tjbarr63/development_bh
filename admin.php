@@ -11,6 +11,7 @@
  * @copyright Copyright (C) 2010 Rod Roark <rod@sunsetsystems.com>
  * @copyright Copyright (c) 2019 Ranganath Pathak <pathak@scrs1.org>
  * @license https://github.com/openemr/openemr/blob/master/LICENSE GNU General Public License 3
+ * This is a test
  */
 
 // Checks if the server's PHP version is compatible with OpenEMR:
